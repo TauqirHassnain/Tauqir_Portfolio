@@ -170,12 +170,12 @@
 
 // ==== Chapter 6-9 Task#1
 
-var a= +prompt("Enter any number")
-var b = ++a;
-document.write("<h2>Result</h2>")
-document.write("<br> The value of a is : " + a)
-document.write("<br> The Value of ++a is " + b)
-// document.write("<br>")
+// var a= +prompt("Enter any number")
+// var b = ++a;
+// document.write("<h2>Result</h2>")
+// document.write("<br> The value of a is : " + a)
+// document.write("<br> The Value of ++a is " + b)
+// // document.write("<br>")
 // document.write("<br>")
 // document.write("<br>")
 // document.write("<br>")
